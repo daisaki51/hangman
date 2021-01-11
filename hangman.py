@@ -1,4 +1,4 @@
-print("test2")
+print("test3")
 def hangman(word):
     wrong = 0
     stages = ["",
